@@ -1,4 +1,2 @@
-We have impleneted ResNet50 and CNN methods for claasification task.
-All the codes are incuded in two file demo1 and demo2.
-demo1.ipynb refers to classification with CNN methods,
+We have impleneted ResNet50 and CNN methods for claasification task. All the codes are incuded in two file demo1 and demo2. Notebook demo1.ipynb refers to classification with CNN methods,
 and, demo2.ipynb refers to classification with ResNet50 methods.
