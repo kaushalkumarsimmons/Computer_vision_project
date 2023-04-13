@@ -1,2 +1,6 @@
 We have impleneted ResNet50 and CNN methods for claasification task. All the codes are incuded in two file demo1 and demo2. Notebook demo1.ipynb refers to classification with CNN methods,
 and, demo2.ipynb refers to classification with ResNet50 methods.
+
+
+In this study, we used the publically available dataset, https://www.muratkoklu.com/datasets/. The dataset contains images of different varieties of rice Arborio, Basmati, Ipsala, Jasmine, and Karacadag. The task is to
+classify which rice seeds belong to which variety
